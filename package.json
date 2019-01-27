@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/zereight/uber-server.git",
   "author": "zereight <42544600+zereight@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "nodemon": "^1.18.9",
+    "ts-node": "^8.0.2",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.2.4"
+  }
 }
