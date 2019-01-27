@@ -1,0 +1,8 @@
+{
+  "name": "uber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zereight/uber-server.git",
+  "author": "zereight <42544600+zereight@users.noreply.github.com>",
+  "license": "MIT"
+}
