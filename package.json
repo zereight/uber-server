@@ -7,12 +7,15 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "graphql-tools": "^4.0.4",
     "graphql-yoga": "^1.17.1",
     "helmet": "^3.15.0",
+<<<<<<< HEAD
     "merge-graphql-schemas": "^1.5.8",
     "morgan": "^1.9.1",
     "path": "^0.12.7"
+=======
+    "morgan": "^1.9.1"
+>>>>>>> parent of 44026be... 7. Make a some Schemas (1)
   },
   "devDependencies": {
     "@types/cors": "^2.8.4",
